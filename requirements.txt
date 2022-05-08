@@ -1,0 +1,6 @@
+optparse==1.5.3
+math==3.6.0
+cv2==4.5.4
+numpy==1.21.4
+scipy==1.7.3
+matplotlib==3.5.0
